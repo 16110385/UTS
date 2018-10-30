@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyResponsi</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="textview">TextView</string>
+    <string name="lihat_detail">Lihat Detail</string>
+    <string name="rating">Rating</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="todo">TODO</string>
+</resources>
